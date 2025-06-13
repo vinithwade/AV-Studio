@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <rect width="200" height="60" fill="transparent"/>
+  <g>
+    <path fill="#3B82F6" d="M30,10 L45,50 L40,50 L36,40 L24,40 L20,50 L15,50 L30,10 Z M30,20 L25,35 L35,35 L30,20 Z"/>
+    <path fill="#10B981" d="M55,10 L55,50 L50,50 L50,20 L45,25 L42,20 L50,13 L55,10 Z"/>
+    <text x="70" y="40" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">STUDIOS</text>
+  </g>
+</svg> 
